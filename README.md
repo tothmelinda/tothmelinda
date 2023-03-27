@@ -44,8 +44,6 @@ Productivity: 📊 Microsoft Office. A suite of productivity tools that I use to
 
 Testing: 🧪 Junit 5, Mockito, Jacoco. Testing frameworks that I use to write unit and integration tests, and measure test coverage.
 
-📫 Get in touch
-Feel free to reach out to me via email if you have any questions or if you're interested in working together on a project. You can also find me on LinkedIn.
 
 
 
